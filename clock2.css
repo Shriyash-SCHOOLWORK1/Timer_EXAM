@@ -1,0 +1,17 @@
+#clock {
+	font-size: 175px;
+	margin: 200px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: bold;   
+}
+
+body {
+    background-color: black;
+  }
+
+  h1, h2, h3, h4{
+    color: rgb(231, 222, 222);
+    text-align: center;
+  }
